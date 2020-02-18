@@ -1,0 +1,17 @@
+{
+    "Nurzat" : {
+        "Name" : "Nurzat",
+        "ID" : 12,
+        "Salary" : 100000
+    },
+    "Osman" : {
+        "Name" : "Osman",
+        "ID" : 13,
+        "Salary" : 130000
+    },
+    "Nurullah" : {
+        "Name" : "Nurullah",
+        "ID" : 14,
+        "Salary" : 150000
+    }
+}
