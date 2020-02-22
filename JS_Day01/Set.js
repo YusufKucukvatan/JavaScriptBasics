@@ -1,5 +1,4 @@
 var set = new Set();
-
 set.add(10);
 set.add(10);
 set.add(10);
